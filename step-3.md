@@ -18,7 +18,7 @@ While the Dashboard allows the configuration to be saved, Wi-Fi 7 is not enabled
 
 ![Enable 802.11be Warning](./images/3-02.png)
 
-Once the configuration of the SSID meets the Wi-Fi 7 minimum criteria, the banner disappears.
+> **Note**: Once the configuration of the SSID meets the Wi-Fi 7 minimum criteria, the banner disappears.
 
 
 **Enable 6 Ghz Operation**
@@ -33,6 +33,7 @@ Below is an example of 6 GHz enablement for all the SSIDs:
 Similarly, 6 Ghz can be enabled for a specific SSID in the "per SSID" tab.
 
 Congratulations,  you have enabled Wi-Fi7 and 6Ghz operation globally and, optionally, for specific SSIDs!
+
 
 
 
