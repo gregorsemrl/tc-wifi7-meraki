@@ -1,0 +1,64 @@
+{
+  "id": "tc-wifi7-meraki",
+  "title": "Configure Wi-Fi 7 using Cisco Meraki Dashboard",
+  "description": "This tutorial covers the Meraki-specific workflow to enable 6 GHz and Wi-Fi 7 across supported APs using the Dashboard UI.",
+  "date": "2025-07-09",
+  "duration": "60m00s",
+  "ia-guid": "f54c3343-54e1-4253-85e7-a93c27b17c7a",
+  "lesson-guid": "d7682574-ee6a-4a12-a356-c8d9bca13dbc",
+  "certifications": ["CCIE"],
+  "skill-levels": "Intermediate",
+  "tags": [
+    { "tag": "Wi-Fi 7" },
+    { "tag": "Meraki" },
+    { "tag": "WPA3" },
+    { "tag": "RF Profiles" }
+  ],
+  "technologies": [{ "tech": "Networking" }],
+  "files": [
+    {
+      "label": "Overview",
+      "duration": "2:30",
+      "xy-guid": "0738864b-60a5-4fec-86f5-eb257ffc79af",
+      "file": "step-1.md"
+    },
+    {
+      "label": "Wi-Fi 7 and 6 Ghz Operations",
+      "duration": "5:00",
+      "xy-guid": "e83cce13-526b-47d9-a686-cde950829f52",
+      "file": "step-2.md"
+    },
+    {
+      "label": "Enabling Wi-Fi 7 globally using Cisco Meraki Dashboard",
+      "duration": "10:00",
+      "xy-guid": "9430ec54-1ffb-4b54-8746-0b76bedcab0a",
+      "file": "step-3.md"
+    },
+    {
+      "label": "Enable WPA3-Enterprise",
+      "duration": "20:00",
+      "xy-guid": "196095cb-69f3-49e2-a764-cb003a7ed656",
+      "file": "step-4.md"
+    },
+    {
+      "label": "Enable WPA3-Personal",
+      "duration": "20:00",
+      "xy-guid": "d745ebda-279d-4ea8-9c78-24a03852a11e",
+      "file": "step-5.md"
+    },
+    {
+      "label": "Enable WPA3-OWE",
+      "duration": "20:00",
+      "xy-guid": "10c9c3cc-2e2a-4942-8d8e-05f870e41c8f",
+      "file": "step-6.md"
+    },
+    {
+      "label": "Congratulations",
+      "duration": "2:30",
+      "xy-guid": "2c7fff90-52cf-4cd7-99c0-e91cb90017bf",
+      "file": "step-7.md"
+    }
+  ],
+  "authors": [{ "name": "Gregor Semrl", "email": "gsemrl@nil-global.com" }],
+  "active": true
+}
